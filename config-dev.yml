@@ -1,2 +1,2 @@
 config:
-  info: "config info version=2 profile = dev,branch=master"
+  info: "config info version=3 profile = dev,branch=master"
